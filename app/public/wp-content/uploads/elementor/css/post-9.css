@@ -25,28 +25,3 @@
 {
     list-style-type: circle;
 }/* End custom CSS */
-/* Start Custom Fonts CSS */@font-face {
-	font-family: 'VK Sans Medium';
-	font-style: normal;
-	font-weight: normal;
-	font-display: auto;
-	src: url('http://slovar-vk/wp-content/uploads/2025/06/VK-Sans-DemiBold-@vk_leaks.eot');
-	src: url('http://slovar-vk/wp-content/uploads/2025/06/VK-Sans-DemiBold-@vk_leaks.eot?#iefix') format('embedded-opentype'),
-		url('http://slovar-vk/wp-content/uploads/2025/06/VK-Sans-DemiBold-@vk_leaks.woff2') format('woff2'),
-		url('http://slovar-vk/wp-content/uploads/2025/06/VK-Sans-DemiBold-@vk_leaks.woff') format('woff'),
-		url('http://slovar-vk/wp-content/uploads/2025/06/VK-Sans-DemiBold-@vk_leaks.ttf') format('truetype'),
-		url('http://slovar-vk/wp-content/uploads/2025/06/VK-Sans-DemiBold-@vk_leaks.svg#VKSansMedium') format('svg');
-}
-@font-face {
-	font-family: 'VK Sans Medium';
-	font-style: normal;
-	font-weight: normal;
-	font-display: auto;
-	src: url('http://slovar-vk/wp-content/uploads/2025/06/VK-Sans-Medium-@vk_leaks.eot');
-	src: url('http://slovar-vk/wp-content/uploads/2025/06/VK-Sans-Medium-@vk_leaks.eot?#iefix') format('embedded-opentype'),
-		url('http://slovar-vk/wp-content/uploads/2025/06/VK-Sans-Medium-@vk_leaks.woff2') format('woff2'),
-		url('http://slovar-vk/wp-content/uploads/2025/06/VK-Sans-Medium-@vk_leaks.woff') format('woff'),
-		url('http://slovar-vk/wp-content/uploads/2025/06/VK-Sans-Medium-@vk_leaks.ttf') format('truetype'),
-		url('http://slovar-vk/wp-content/uploads/2025/06/VK-Sans-Medium-@vk_leaks.svg#VKSansMedium') format('svg');
-}
-/* End Custom Fonts CSS */
